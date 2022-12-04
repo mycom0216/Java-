@@ -6,7 +6,7 @@ public class ex05별찍기8행 {
 
 	public static void main(String[] args) {
 
-		Scanner sc = new Scanner(System.in);
+	Scanner sc = new Scanner(System.in);
 		System.out.println("행 개수 : ");
 		int row = sc.nextInt();
 
